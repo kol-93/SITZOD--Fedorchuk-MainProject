@@ -1,0 +1,47 @@
+# Description from 
+# http://delphi.wikia.com/wiki/Delphi_File_Extensions
+# All `Maybe`-s are commented now
+
+# Borland Package Library
+# *.bpl
+
+# Temporary backup files
+*.cbk
+
+# Project configuration files
+*.cfg
+
+# Delphi Component Package
+# *.dcp
+
+# Delphi Compiler Symbolic Information
+# *.dcpil
+
+# Delphi Compiled Unit File
+# *.dcu
+# *.dcuil
+
+# Delphi Diagram Portfolio File
+# *.ddp
+
+# Delphi Package Library
+# *.dpl
+
+# Resource String File
+*.drc
+
+# Delphi Desktop File
+*.dsk
+
+# Browser Symbol information from the last successful compile
+*.dsm
+
+# Temporary Cache File created by refactoring engine to improve performance
+*.identcache
+
+# User-specific project options
+*.local
+
+# The optional error map file
+*.map
+
